@@ -14,7 +14,7 @@ JWordle is a Java-based implementation of the popular word game Wordle. This pro
    First, clone the repository to your local machine. Open your terminal and run:
 
    ```sh
-   git clone git@github.com:raghavrajsah/JavaWordle-Game-Clone-from-NYT.git
+   git clone git@github.com:raghavrajsah/Wordle-Game.git
    ```
 
 2. **Navigate to the Project Directory**
@@ -22,7 +22,7 @@ JWordle is a Java-based implementation of the popular word game Wordle. This pro
    Change into the project directory:
 
    ```sh
-   cd JavaWordle-Game-Clone-from-NYT
+   cd Wordle_Game/
    ```
 
 3. **Compile the Code**
