@@ -1,4 +1,4 @@
-# JWordle: Java Implementation of the Wordle Game
+# Wordle Game Completely Built in Java
 
 ![Project Logo](wordle.jpg)
 
