@@ -101,22 +101,6 @@ public class GameGUI extends JComponent implements KeyListener, MouseListener{
       else
          isGameOver = GAMEOVER_LOSE;
    }
-   
-   
-
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
 
    
    
